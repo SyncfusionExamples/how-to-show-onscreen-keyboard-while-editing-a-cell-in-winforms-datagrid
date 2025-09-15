@@ -4,7 +4,7 @@
 
 This example illustrates how to show onscreen keyboard while editing a cell in WinForms DataGrid.
 
-In [WinForms DataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid) (SfDataGrid), the on-screen keyboard can be launched programmatically through the [CurrentCellBeginEdit](https://help.syncfusion.com/cr/windowsforms/Syncfusion.WinForms.DataGrid.SfDataGrid.html?_gl=1*1325pyh*_ga*ODQzMzc0ODE1LjE3NDcyMzc2Mjg.*_ga_41J4HFMX1J*czE3NTQ5MDQ2ODckbzIzNyRnMSR0MTc1NDkxMzgyNiRqNjAkbDAkaDA.#Syncfusion_WinForms_DataGrid_SfDataGrid_CurrentCellBeginEdit) event while editing a cell.
+In [WinForms DataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid) (SfDataGrid), the on-screen keyboard can be launched programmatically through the [CurrentCellBeginEdit](https://help.syncfusion.com/cr/windowsforms/Syncfusion.WinForms.DataGrid.SfDataGrid.html#Syncfusion_WinForms_DataGrid_SfDataGrid_CurrentCellBeginEdit) event while editing a cell.
 
 ### C#
 ```c#
